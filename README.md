@@ -2,17 +2,21 @@
 
 ## Overview
 
-This project presents an interactive Sales Dashboard built using Power BI, enabling businesses to track and analyze key sales metrics. The dashboard provides real-time insights into revenue trends, customer segmentation, and product performance, helping in data-driven decision-making.
+This Sales Dashboard provides a comprehensive view of sales performance across multiple dimensions, including time, geography, product categories, and sales representatives. The dashboard helps track revenue trends, analyze product-wise sales, and assess the contribution of different sales personnel and regions.
 
-## Objectives
+## Features
 
-1. Monitor total sales, revenue, and profit trends.
+1. Total Sales Overview: Displays key metrics such as Total Amount and Total Boxes Sold.
 
-2. Identify top-performing products and regions.
+2. Monthly Sales Trend: A time-series line chart showing monthly revenue trends.
 
-3. Analyze customer segmentation and purchasing patterns.
+3. Sales by Country: A donut chart breaking down sales by different regions.
 
-4. Visualize monthly and yearly sales performance.
+4. Sales by Product: A horizontal bar chart ranking products based on sales performance.
+
+5. Sales by Salesperson: A table summarizing individual sales contributions.
+
+6. Date Filter: A date slicer to analyze trends within a selected time period.
 
 ## Dataset
 
@@ -28,30 +32,12 @@ https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Sales%20Data.xlsx
 
 4. Excel (for data preprocessing)
 
-## Dashboard Features
-
-### Key Performance Indicators (KPIs):
-
-- Total Revenue, Profit Margin, Customer Count
-
-### Interactive Filters & Slicers:
-
-- Year, Region, Product Category, Customer Segment
-
-### Visualizations:
-
-- Sales trend line charts
-- Profit breakdown bar charts
-- Regional performance map visual
-- Top-selling products table view
-
 ## Insights
 
-1. Electronics category contributes 35% of total revenue.
-2. West region has the highest profit margin of 18%.
-3. Seasonal spike in Q4 due to holiday sales.
-4. Repeat customers account for 60% of sales revenue.
+1. Highest-Selling Products: Products like Orange Choco, Drinking Coco, and 99% Dark & Pure are top contributors.
+2. Regional Performance: The UK and USA are leading markets, accounting for a significant portion of total sales.
+3. Salesperson Impact: Some salespeople, such as Brien Boise and Barr Faughny, have higher contributions compared to others.
 
 ## Dashboard Preview
 
-https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Sales%20Dashboard.pdf
+https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Screenshot.png
