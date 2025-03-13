@@ -40,4 +40,5 @@ https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Sales%20Data.xlsx
 
 ## Dashboard Preview
 
-https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Screenshot.png
+![Screenshot](https://github.com/user-attachments/assets/cb359860-31f2-4081-bb50-026761c08b0b)
+
